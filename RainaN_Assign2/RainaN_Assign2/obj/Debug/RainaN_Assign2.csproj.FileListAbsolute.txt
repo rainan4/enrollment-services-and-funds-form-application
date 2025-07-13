@@ -1,0 +1,10 @@
+C:\Users\raina\OneDrive\Desktop\csis1175\RainaN_Assign2\RainaN_Assign2\bin\Debug\RainaN_Assign2.exe.config
+C:\Users\raina\OneDrive\Desktop\csis1175\RainaN_Assign2\RainaN_Assign2\bin\Debug\RainaN_Assign2.exe
+C:\Users\raina\OneDrive\Desktop\csis1175\RainaN_Assign2\RainaN_Assign2\bin\Debug\RainaN_Assign2.pdb
+C:\Users\raina\OneDrive\Desktop\csis1175\RainaN_Assign2\RainaN_Assign2\obj\Debug\RainaN_Assign2.csproj.AssemblyReference.cache
+C:\Users\raina\OneDrive\Desktop\csis1175\RainaN_Assign2\RainaN_Assign2\obj\Debug\RainaN_Assign2.Properties.Resources.resources
+C:\Users\raina\OneDrive\Desktop\csis1175\RainaN_Assign2\RainaN_Assign2\obj\Debug\RainaN_Assign2.csproj.GenerateResource.cache
+C:\Users\raina\OneDrive\Desktop\csis1175\RainaN_Assign2\RainaN_Assign2\obj\Debug\RainaN_Assign2.csproj.CoreCompileInputs.cache
+C:\Users\raina\OneDrive\Desktop\csis1175\RainaN_Assign2\RainaN_Assign2\obj\Debug\RainaN_Assign2.exe
+C:\Users\raina\OneDrive\Desktop\csis1175\RainaN_Assign2\RainaN_Assign2\obj\Debug\RainaN_Assign2.pdb
+C:\Users\raina\OneDrive\Desktop\csis1175\RainaN_Assign2\RainaN_Assign2\obj\Debug\RainaN_Assign2.Form1.resources

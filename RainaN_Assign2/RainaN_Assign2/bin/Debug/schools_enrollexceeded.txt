@@ -1,0 +1,11 @@
+SchoolName,MaxEnroll,PrevYrEnroll,NumStudsLeaving,NumStudsJoining,CurrYrEnroll
+Britannia Commu,752,825,0,0,825
+Carnarvon Commu,982,1025,0,0,1025
+Crosstown Eleme,744,775,0,0,775
+Edith Cavell El,732,794,0,0,794
+Lord Roberts El,852,902,0,0,902
+Prince of Wales,848,861,0,0,861
+Sir Richard McB,838,868,0,0,868
+Trafalgar Eleme,753,789,0,0,789
+Vancouver Learn,956,1036,0,0,1036
+Vancouver Techn,706,791,0,0,791

@@ -1,0 +1,11 @@
+SchoolName	MaxEnroll	PrevYrEnroll	NumStudsLeaving	NumStudsJoining	FundsPerStud	CurrYrEnroll	TotalFunding
+Britannia Commu	752	825	0	0	23.5	825	19387.5
+Carnarvon Commu	982	1025	0	0	39.69	1025	40682.25
+Crosstown Eleme	744	775	0	0	19.96	775	15469
+Edith Cavell El	732	794	0	0	29.25	794	23224.5
+Lord Roberts El	852	902	0	0	16.58	902	14955.16
+Prince of Wales	848	861	0	0	34.86	861	30014.46
+Sir Richard McB	838	868	0	0	30.71	868	26656.28
+Trafalgar Eleme	753	789	0	0	27.16	789	21429.24
+Vancouver Learn	956	1036	0	0	24.8	1036	25692.8
+Vancouver Techn	706	791	0	0	20.53	791	16239.23
